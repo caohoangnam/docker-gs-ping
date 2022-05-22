@@ -1,4 +1,4 @@
-module github.com/olliefr/docker-gs-ping-roach
+module github.com/caohoangnam/docker-gs-ping
 
 go 1.16
 
